@@ -1,2 +1,2 @@
-# Learnign-OpenCV-
+# Learning-OpenCV-
 New Learnings
